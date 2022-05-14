@@ -1,5 +1,5 @@
 ## Assignment24
 ### Input:
-![picture](.\input\Picture2.jpg)
+![picture](./input/Picture2.jpg)
 ### Output:
-![picture](.\output\result3.jpg)
+![picture](./output/result3.jpg)
