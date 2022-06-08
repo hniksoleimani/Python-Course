@@ -86,7 +86,6 @@ def purchase():
 
 
 def exit():
-      Products = []
       myFile = open('Database.txt','w+')
       for i in range(len(Products)):
             data = myFile.write(Products[i]['ID'] + ',' + Products[i]['Name'] + ',' + Products[i]['Price'] + ',' + Products[i]['Count']+ '\n')
