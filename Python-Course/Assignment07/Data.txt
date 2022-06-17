@@ -1,7 +1,0 @@
-words = [
-		'{english':'apple', 'persian':'sib'},
-		'{english':'tree', 'persian':'derakht'},
-		'{english':'i', 'persian':'man'},
-		'{english':'we', 'persian':'ma'},
-		'{english':'quick', 'persian':'sari'},
-]
